@@ -14,4 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Profile Views](https://glitch.me)
+<p align="left">
+  <img src="https://glitch.me" alt="Profile Views" />
+</p>
