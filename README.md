@@ -14,6 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align="left">
-  <img src="https://glitch.me" alt="Profile Views" />
-</p>
+![Profile Views](https://whatthecommit.com)
