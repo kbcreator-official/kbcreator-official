@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:232F72,100:36ADA3&height=200&section=header&text=KB's%20World&fontSize=45&fontColor=ffffff&animation=fadeIn&desc=AI%20Student%20%7C%20Web%20Designer%20%7C%20Content%20Creator&descAlignY=65" />
+</p>
+
 <h1 align="center">Hi there, I'm KB</h1>
 <h3 align="center">AI Student • Web Designer • Content Creator | KB's World</h3>
 
