@@ -63,12 +63,9 @@
 ###  Trophies
 
 <p align="center">
-  <img src="" />
+  <img src=" coming soon!!" />
 </p>
 
 ---
 
 <p align="center"> From <b>KB's World</b> — turning ideas into intelligent, sleek digital experiences.</p>
-
-
-![Profile Views](https://komarev.com)
