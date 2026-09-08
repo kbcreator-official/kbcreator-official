@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi there, I'm KB</h1>
-<h3 align="center">AI Student • Web Designer • Content Creator | KB's World</h3>
+<h3 align="center">AI Student • Web Designer • Content Creator | SEO EXECUTIVE</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=AI+%26+ML+Enthusiast;Frontend+%26+Web+Developer;Turning+Ideas+Into+Sleek+Websites;Always+Learning+Something+New&center=true&width=550&height=45&color=36ADA3&vCenter=true&size=22" />
@@ -43,7 +43,7 @@
 | **DecodeLabs Internship** | Robotics & Automation internship projects |
 |  **Qwetrum Internship Workspace** | Web development internship tasks — responsive landing pages, apps |
 
-*(Add repo links here once pinned — e.g. `[AI Detection System](https://github.com/kbcreator-official/AI-detection-)`)*
+*https://github.com/kbcreator-official/AI-detection-*
 
 ---
 
@@ -63,17 +63,10 @@
 ###  Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kbcreator-official&theme=tokyonight&row=1&column=6&margin-w=10" />
+  <img src="" />
 </p>
 
 ---
-
-###  Connect With Me
-
-<p align="center">
-  <a href="https://instagram.com/kbcreator_official"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Portfolio-36ADA3?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-</p>
 
 <p align="center"> From <b>KB's World</b> — turning ideas into intelligent, sleek digital experiences.</p>
 
