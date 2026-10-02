@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=200&color=0:050816,60:0b2a3a,100:00a8c6&text=KB's%20World&fontSize=52&fontColor=00e5ff&fontAlign=50&fontAlignY=40&stroke=00e5ff&strokeWidth=1&animation=twinkling&desc=%5B%20AI%20Student%20%7C%20Web%20Designer%20%7C%20Content%20Creator%20%5D&descSize=18&descAlignY=62&descColor=e6faff" alt="KB's World" />
+<img src="https://raw.githubusercontent.com/kbcreator-official/kbcreator-official/main/assets/header.svg" alt="KB's World" width="100%" />
 
 <br>
 
