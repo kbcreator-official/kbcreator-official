@@ -1,17 +1,12 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:232F72,100:36ADA3&height=200&section=header&text=KB's%20World&fontSize=45&fontColor=ffffff&animation=fadeIn&desc=AI%20Student%20%7C%20Web%20Designer%20%7C%20Content%20Creator&descAlignY=65" />
-</p>
+<div align="center">
 
-<h1 align="center">Hi there, I'm KB</h1>
-<h3 align="center">AI Student • Web Designer • Content Creator | SEO EXECUTIVE</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:1e2a5a,100:2a7a6e&text=KB's%20World&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=AI%20Student%20%7C%20Web%20Designer%20%7C%20Content%20Creator&descSize=18&descAlignY=58" alt="KB's World banner" />
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=AI+%26+ML+Enthusiast;Frontend+%26+Web+Developer;Turning+Ideas+Into+Sleek+Websites;Always+Learning+Something+New&center=true&width=550&height=45&color=36ADA3&vCenter=true&size=22" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2DD4BF&center=true&vCenter=true&width=520&lines=Hi+there,+I'm+KB+👋;AI+%2F+ML+Student;Web+Designer+%26+SEO+Executive;Content+Creator" alt="Typing intro" />
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kbcreator-official&color=36ADA3&style=flat-square" alt="Profile Views" />
-</p>
+<img src="https://komarev.com/ghpvc/?username=kbcreator-official&label=Profile%20views&color=2a7a6e&style=flat" alt="Profile views" />
+
+</div>
 
 ---
 
