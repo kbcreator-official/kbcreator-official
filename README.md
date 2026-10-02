@@ -1,14 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:1e2a5a,100:2a7a6e&text=KB's%20World&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=AI%20Student%20%7C%20Web%20Designer%20%7C%20Content%20Creator&descSize=18&descAlignY=58" alt="KB's World banner" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=200&color=0:050816,60:0b2a3a,100:00a8c6&text=KB's%20World&fontSize=52&fontColor=00e5ff&fontAlign=50&fontAlignY=40&stroke=00e5ff&strokeWidth=1&animation=twinkling&desc=%5B%20AI%20Student%20%7C%20Web%20Designer%20%7C%20Content%20Creator%20%5D&descSize=18&descAlignY=62&descColor=e6faff" alt="KB's World" />
 
-<h3>Hi there, I'm KB </h3>
+<br>
 
-<b>AI / ML Student • Web Designer • Content Creator • SEO Executive</b>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=kbcreator-official&label=Profile%20views&color=2a7a6e&style=flat" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=kbcreator-official&label=SYSTEM%20VIEWS&color=00a8c6&style=for-the-badge" alt="Profile views" />
 
 </div>
 
