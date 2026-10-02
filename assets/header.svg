@@ -1,0 +1,52 @@
+<svg width="900" height="220" viewBox="0 0 900 220" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#050816"/>
+      <stop offset="1" stop-color="#0b2a3a"/>
+    </linearGradient>
+    <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse">
+      <path d="M30 0H0V30" fill="none" stroke="#00e5ff" stroke-opacity="0.12"/>
+    </pattern>
+  </defs>
+
+  <rect width="900" height="220" rx="12" fill="url(#bg)"/>
+  <rect width="900" height="220" rx="12" fill="url(#grid)"/>
+
+  <!-- circuit lines -->
+  <g fill="none" stroke="#00e5ff" stroke-width="1.5" stroke-opacity="0.6" stroke-dasharray="6 6">
+    <path d="M0 40H120L150 70H280">
+      <animate attributeName="stroke-dashoffset" from="0" to="-48" dur="2s" repeatCount="indefinite"/>
+    </path>
+    <path d="M900 180H760L730 150H620">
+      <animate attributeName="stroke-dashoffset" from="0" to="48" dur="2s" repeatCount="indefinite"/>
+    </path>
+    <path d="M0 190H80L110 160H200">
+      <animate attributeName="stroke-dashoffset" from="0" to="-48" dur="3s" repeatCount="indefinite"/>
+    </path>
+    <path d="M900 35H800L770 65H680">
+      <animate attributeName="stroke-dashoffset" from="0" to="48" dur="3s" repeatCount="indefinite"/>
+    </path>
+  </g>
+
+  <!-- corner brackets -->
+  <g fill="none" stroke="#00e5ff" stroke-width="2">
+    <path d="M15 40V15H40"/><path d="M860 15H885V40"/>
+    <path d="M15 180V205H40"/><path d="M885 180V205H860"/>
+  </g>
+
+  <!-- scan line -->
+  <rect width="900" height="2" fill="#00e5ff" opacity="0.35">
+    <animate attributeName="y" values="0;218;0" dur="4s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- title -->
+  <text x="450" y="105" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="50" font-weight="700" fill="#e6faff">KB's World</text>
+  <text x="450" y="148" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="18" fill="#00e5ff">&gt; AI Student | Web Designer | Content Creator<tspan>
+    <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>_</tspan></text>
+
+  <!-- status -->
+  <circle cx="345" cy="188" r="4" fill="#22ff88">
+    <animate attributeName="opacity" values="1;0.2;1" dur="1.2s" repeatCount="indefinite"/>
+  </circle>
+  <text x="358" y="192" font-family="Consolas, 'Courier New', monospace" font-size="13" fill="#7fe9ff">SYSTEM ONLINE  |  AI / ML  |  v1.0</text>
+</svg>
